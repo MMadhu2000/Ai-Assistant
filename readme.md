@@ -59,7 +59,7 @@ ollama pull llama3:8b
 
 🔧 Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/real-time-ai-assistant.git
+git clone https://github.com/MMadhu2000/Ai-Assistant.git
 cd real-time-ai-assistant
 
 2️⃣ Create and activate a virtual environment
